@@ -28,3 +28,17 @@
 
 <br />
 <br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Accountley- Cashbook for schools,colleges,institutes](https://youtu.be/VUJvCMkNsKo)
+- [Inventory Management System](https://youtu.be/ycCV66xzqY8)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/user/LOAFER300)
+
+---
+
