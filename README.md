@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with my open source projects to complete
 - 💬 Ask me about PHP, Laravel, Codeigniter, AWS
-- 📫 How to reach me: admin@phptiger.com / shahmian@gmail.com
+- 📫 How to reach me: admin@kelextech.com / shahmian@gmail.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
