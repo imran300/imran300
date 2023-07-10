@@ -1,6 +1,6 @@
 ### Hi there, I'm Imran - aka [Mian Jee][website] 👋
 
-[![Website](https://img.shields.io/website?label=phptiger.com&style=for-the-badge&url=https%3A%2F%2Fphptiger.com)](https://phptiger.com)
+[![Website](https://img.shields.io/website?label=kelextech.com&style=for-the-badge&url=https%3A%2F%2Fkelextech.com)](https://kelextech.com)
 ## I'm a Husband, Developer and an Entrepreneur!!
 
 - 🔭 I’m currently working on my premium products available on https://phptiger.com
