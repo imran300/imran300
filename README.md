@@ -22,26 +22,3 @@
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Accountley- Cashbook for schools,colleges,institutes](https://youtu.be/VUJvCMkNsKo)
-- [Inventory Management System](https://youtu.be/ycCV66xzqY8)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/user/LOAFER300)
-
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="phptiger's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=imran300&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://phptiger.com
-[youtube]: https://www.youtube.com/user/LOAFER300
-
