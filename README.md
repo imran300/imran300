@@ -1,6 +1,6 @@
 ### Hi there, I'm Imran 👋
 
-## I am a Full STack Developer!!
+## I am a Full Stack Developer!!
 
 Connect with me:
 - 🌱 I’m currently learning ReactJS 🤣
