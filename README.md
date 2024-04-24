@@ -3,12 +3,10 @@
 [![Website](https://img.shields.io/website?label=kelextech.com&style=for-the-badge&url=https%3A%2F%2Fkelextech.com)](https://kelextech.com)
 ## I'm a Husband, Developer and an Entrepreneur!!
 
-- 🔭 I’m currently working on my premium products available on https://kelextech.com
 - 🌱 I’m currently learning ReactJS 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with my open source projects to complete
-- 💬 Ask me about PHP, Laravel, Codeigniter, AWS
-- 📫 How to reach me: admin@kelextech.com / shahmian@gmail.com
+- 👯 I’m looking to collaborate on Remote Projects
+- 💬 Ask me about C#, .NET, Python, PHP, Laravel, Codeigniter, AWS
+- 📫 How to reach me: shahmian@gmail.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
