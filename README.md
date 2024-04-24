@@ -1,4 +1,4 @@
-### Hi there, I'm Imran - aka [Mian Jee][website] 👋
+### Hi there, I'm Imran 👋
 
 [![Website](https://img.shields.io/website?label=kelextech.com&style=for-the-badge&url=https%3A%2F%2Fkelextech.com)](https://kelextech.com)
 ## I'm a Husband, Developer and an Entrepreneur!!
